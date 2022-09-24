@@ -1,7 +1,7 @@
 package com.project;
 
-public class NewTest {
+public class NewTest1 {
     public static void main(String[] args) {
-        System.out.println("新加的NewTest");
+        System.out.println("TheNewTest");
     }
 }
