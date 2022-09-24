@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="02-GP:war">
+    <output-path>$PROJECT_DIR$/02-GP/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>02-GP</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="02-GP.war">
+      <element id="artifact" artifact-name="02-GP:war exploded" />
+    </root>
+  </artifact>
+</component>
